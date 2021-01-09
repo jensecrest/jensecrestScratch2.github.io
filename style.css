@@ -94,7 +94,8 @@ html {
 
 .body {  
     /* background-image: url("../../images/bg.jpg"); */
-	background-color: #ffebcd;
+	background-color: #fffcf8;
+	opacity: 0.1;
 }  
   
 .wrapper {  
