@@ -3,7 +3,7 @@
 /* CSS Document */  
 
 html {
-	background-color: #fffcf8;
+	background-color: #fffaf2;
 }
   
 .h1 {  
@@ -96,7 +96,6 @@ html {
 .body {  
     /* background-image: url("../../images/bg.jpg"); */
 	background-color: #fffcf8;
-	opacity: 0.1;
 }  
   
 .wrapper {  
